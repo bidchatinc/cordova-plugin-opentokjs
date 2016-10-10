@@ -19,7 +19,7 @@
   <dependency id="cordova-plugin-crosswalk-webview" spec="^1.2.0" />
 
   <!-- only needed for ios -->
-  <dependency url="https://github.com/thomasgauthier/cordova-plugin-iosrtc.git"/>
+  <dependency id="cordova-plugin-iosrtc" url="https://github.com/thomasgauthier/cordova-plugin-iosrtc.git"/>
 
   <!-- TODO: do we need any native code for android? -->
   <platform name="android">
